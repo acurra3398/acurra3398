@@ -51,14 +51,12 @@ I'm also a Swift developer, Peabody clarinet student, SGA president, and Etsy sh
 
 ### 🚀 featured projects
 
-<div align="center">
-
-[![StudyMe](https://github-readme-stats.vercel.app/api/pin/?username=acurra3398&repo=StudyMe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF)](https://github.com/acurra3398/StudyMe)
-[![Blu-Cru-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Blu-Cru&repo=Blu-Cru-Bot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF)](https://github.com/Blu-Cru)
-[![ftc-scout](https://github-readme-stats.vercel.app/api/pin/?username=acurra3398&repo=ftc-scout&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF)](https://github.com/acurra3398/ftc-scout)
-[![gm0](https://github-readme-stats.vercel.app/api/pin/?username=acurra3398&repo=gm0&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF)](https://github.com/acurra3398/gm0)
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [**StudyMe**](https://github.com/acurra3398/StudyMe) | iOS assignment tracker with AI-powered prioritization & reminders | Swift |
+| [**Blu Cru Bot**](https://github.com/Blu-Cru) | Discord scheduling bot for our FTC team with availability wizard & reminders | Python, discord.py |
+| [**ftc-scout**](https://github.com/acurra3398/ftc-scout) | Fork of the community FTC scouting platform | TypeScript |
+| [**gm0**](https://github.com/acurra3398/gm0) | Fork of Game Manual 0, the definitive FTC guide | Python/Sphinx |
 
 ---
 
@@ -93,42 +91,9 @@ Things I've built for Blu Cru's competition robot:
 
 <div align="center">
 
-![snake](https://github.com/acurra3398/acurra3398/blob/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/acurra3398/acurra3398/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-<details>
-<summary>⚠️ Snake not showing? Click for one-time setup</summary>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: acurra3398
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Settings → Actions → General**, set workflow permissions to **Read and write**, and run the action once manually.
-
-</details>
 
 ---
 
