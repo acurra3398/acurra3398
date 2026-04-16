@@ -1,12 +1,13 @@
 <div align="center">
 
-# hey, i'm alex 👋
+# hey, i'm Alex 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4A9FFF&center=true&vCenter=true&width=600&lines=FTC+Robotics+Programmer+%F0%9F%A4%96;iOS+%26+Python+Developer;FTC+Team+6417+%E2%80%94+Blu+Cru;Kalman+Filters+%7C+AprilTag+Vision+%7C+PD+Control)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/acurra3398?style=flat-square&color=4A9FFF&labelColor=0d1117&label=followers)](https://github.com/acurra3398?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/acurra3398?style=flat-square&color=4A9FFF&labelColor=0d1117&label=total%20stars)](https://github.com/acurra3398)
 [![Location](https://img.shields.io/badge/📍-Maryland,_US-4A9FFF?style=flat-square&labelColor=0d1117)](https://github.com/acurra3398)
+![Profile Views](https://komarev.com/ghpvc/?username=acurra3398&color=4A9FFF&style=flat-square&label=profile+views)
 
 </div>
 
@@ -50,12 +51,14 @@ I'm also a Swift developer, Peabody clarinet student, SGA president, and Etsy sh
 
 ### 🚀 featured projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**StudyMe**](https://github.com/acurra3398/StudyMe) | iOS assignment tracker with AI-powered prioritization & reminders | Swift |
-| [**Blu Cru Bot**](https://github.com/Blu-Cru) | Discord scheduling bot for our FTC team with availability wizard & reminders | Python, discord.py |
-| [**ftc-scout**](https://github.com/acurra3398/ftc-scout) | Fork of the community FTC scouting platform | TypeScript |
-| [**gm0**](https://github.com/acurra3398/gm0) | Fork of Game Manual 0, the definitive FTC guide | Python/Sphinx |
+<div align="center">
+
+[![StudyMe](https://github-readme-stats.vercel.app/api/pin/?username=acurra3398&repo=StudyMe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF)](https://github.com/acurra3398/StudyMe)
+[![Blu-Cru-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Blu-Cru&repo=Blu-Cru-Bot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF)](https://github.com/Blu-Cru)
+[![ftc-scout](https://github-readme-stats.vercel.app/api/pin/?username=acurra3398&repo=ftc-scout&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF)](https://github.com/acurra3398/ftc-scout)
+[![gm0](https://github-readme-stats.vercel.app/api/pin/?username=acurra3398&repo=gm0&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF)](https://github.com/acurra3398/gm0)
+
+</div>
 
 ---
 
@@ -80,7 +83,52 @@ Things I've built for Blu Cru's competition robot:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=acurra3398&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4A9FFF&fire=4A9FFF&currStreakLabel=4A9FFF)](https://git.io/streak-stats)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=acurra3398&theme=github-compact&hide_border=true&bg_color=0d1117&color=4A9FFF&line=4A9FFF&point=ffffff&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 </div>
+
+---
+
+### 🐍 contribution snake
+
+<div align="center">
+
+![snake](https://github.com/acurra3398/acurra3398/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<details>
+<summary>⚠️ Snake not showing? Click for one-time setup</summary>
+
+Create `.github/workflows/snake.yml` in this repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: acurra3398
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Settings → Actions → General**, set workflow permissions to **Read and write**, and run the action once manually.
+
+</details>
 
 ---
 
