@@ -15,11 +15,9 @@
 
 ### 🤖 about me
 
-I'm a freshman at **Archbishop Spalding High School** and a programmer for **[FTC Team 6417 — Blu Cru](https://github.com/Blu-Cru)** out of Rockville, MD. I build autonomous robot systems with a focus on real-time state estimation, computer vision, and control theory.
+I am in 8th grade at **Hammond Middle School** and a programmer for **[FTC Team 6417 — Blu Cru](https://github.com/Blu-Cru)** out of Rockville, MD.
 
 I'm also a Swift developer, Peabody clarinet student, SGA president, and Etsy shop owner at **[MonaViDesigns](https://etsy.com/shop/MonaViDesigns)** 🎨
-
-> Currently preparing for **FTC World Championship 2025 in Houston** 🏆
 
 ---
 
