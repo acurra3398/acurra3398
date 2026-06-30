@@ -2,10 +2,8 @@
 
 # hey, i'm Alex 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4A9FFF&center=true&vCenter=true&width=600&lines=FTC+Robotics+Programmer+%F0%9F%A4%96;iOS+%26+Python+Developer;FTC+Team+6417+%E2%80%94+Blu+Cru;Kalman+Filters+%7C+AprilTag+Vision+%7C+PD+Control)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4A9FFF&center=true&vCenter=true&width=600&lines=FTC+Robotics+Programmer+%F0%9F%A4%96;iOS+%26+Python+Developer;Kalman+Filters+%7C+AprilTag+Vision+%7C+PD+Control)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/acurra3398?style=flat-square&color=4A9FFF&labelColor=0d1117&label=followers)](https://github.com/acurra3398?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/acurra3398?style=flat-square&color=4A9FFF&labelColor=0d1117&label=total%20stars)](https://github.com/acurra3398)
 [![Location](https://img.shields.io/badge/📍-Maryland,_US-4A9FFF?style=flat-square&labelColor=0d1117)](https://github.com/acurra3398)
 ![Profile Views](https://komarev.com/ghpvc/?username=acurra3398&color=4A9FFF&style=flat-square&label=profile+views)
 
@@ -15,9 +13,7 @@
 
 ### 🤖 about me
 
-I am in 8th grade at **Hammond Middle School** and a programmer for **[FTC Team 6417 — Blu Cru](https://github.com/Blu-Cru)** out of Rockville, MD.
-
-I'm also a Swift developer, Peabody clarinet student, SGA president, and Etsy shop owner at **[MonaViDesigns](https://etsy.com/shop/MonaViDesigns)** 🎨
+I am in 9th grade at **Archbishop Spalding High School**.
 
 ---
 
@@ -52,36 +48,18 @@ I'm also a Swift developer, Peabody clarinet student, SGA president, and Etsy sh
 | Project | Description | Stack |
 |---|---|---|
 | [**StudyMe**](https://github.com/acurra3398/StudyMe) | iOS assignment tracker with AI-powered prioritization & reminders | Swift |
-| [**Blu Cru Bot**](https://github.com/Blu-Cru) | Discord scheduling bot for our FTC team with availability wizard & reminders | Python, discord.py |
-| [**ftc-scout**](https://github.com/acurra3398/ftc-scout) | Fork of the community FTC scouting platform | TypeScript |
-| [**gm0**](https://github.com/acurra3398/gm0) | Fork of Game Manual 0, the definitive FTC guide | Python/Sphinx |
+| [**Time Management Discord Bot**](https://github.com/Blu-Cru) | Discord scheduling bot for our FTC team with availability wizard & reminders | Python, discord.py |
 
 ---
 
 ### 🤖 robotics highlights
 
-Things I've built for Blu Cru's competition robot:
+Things I've built for FTC Competing Robots.
 
 - **Kalman Filter Pose Estimation** — fused odometry + AprilTag correction for high-accuracy field localization
 - **Shoot-on-the-Move (SOTM) Compensation** — vector-based compensation for robot velocity during projectile launch
 - **PD Turret Control** — Ziegler-Nichols tuned PD loop with Kp=0.06, Kd=0.015
 - **Coordinate Frame Transforms** — chained field → robot → camera transforms for turret-mounted vision
-
----
-
-### 📊 github stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acurra3398&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&icon_color=4A9FFF&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acurra3398&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9FFF&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=acurra3398&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4A9FFF&fire=4A9FFF&currStreakLabel=4A9FFF)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=acurra3398&theme=github-compact&hide_border=true&bg_color=0d1117&color=4A9FFF&line=4A9FFF&point=ffffff&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -91,17 +69,4 @@ Things I've built for Blu Cru's competition robot:
 
 ![snake](https://raw.githubusercontent.com/acurra3398/acurra3398/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
----
-
-### 🔗 find me
-
-[![Etsy](https://img.shields.io/badge/MonaViDesigns-F16521?style=flat-square&logo=etsy&logoColor=white)](https://etsy.com/shop/MonaViDesigns)
-[![FTC Team](https://img.shields.io/badge/Blu%20Cru%20%236417-4A90D9?style=flat-square&logo=github&logoColor=white)](https://github.com/Blu-Cru)
-
----
-
-<div align="center">
-<sub>Built with ☕ and too many Red Bulls </sub>
 </div>
