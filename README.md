@@ -42,15 +42,6 @@ I am in 9th grade at **Archbishop Spalding High School**.
 
 ---
 
-### 🚀 featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**StudyMe**](https://github.com/acurra3398/StudyMe) | iOS assignment tracker with AI-powered prioritization & reminders | Swift |
-| [**Time Management Discord Bot**](https://github.com/Blu-Cru) | Discord scheduling bot for our FTC team with availability wizard & reminders | Python, discord.py |
-
----
-
 ### 🤖 robotics highlights
 
 Things I've built for FTC Competing Robots.
