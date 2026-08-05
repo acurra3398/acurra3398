@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm Alex 👋
+# Hi, I'm Alex!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4A9FFF&center=true&vCenter=true&width=600&lines=FTC+Robotics+Programmer+%F0%9F%A4%96;iOS+%26+Python+Developer;Kalman+Filters+%7C+AprilTag+Vision+%7C+PD+Control)](https://git.io/typing-svg)
 
