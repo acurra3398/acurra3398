@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4A9FFF&center=true&vCenter=true&width=600&lines=FTC+Robotics+Programmer+%F0%9F%A4%96;iOS+%26+Python+Developer;Kalman+Filters+%7C+AprilTag+Vision+%7C+PD+Control)](https://git.io/typing-svg)
 
 [![Location](https://img.shields.io/badge/📍-Maryland,_US-4A9FFF?style=flat-square&labelColor=0d1117)](https://github.com/acurra3398)
-![Profile Views](https://komarev.com/ghpvc/?username=acurra3398&color=4A9FFF&style=flat-square&label=profile+views)
 
 </div>
 
